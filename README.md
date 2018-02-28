@@ -66,7 +66,3 @@ autopep8 . --recursive --in-place --pep8-passes 2000 --verbose --ignore E501
 
 ## Contributions/Comments
 We always welcome your comments and pull requests.
-
-
-
-hjjmmm
